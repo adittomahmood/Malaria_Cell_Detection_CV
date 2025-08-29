@@ -6,8 +6,10 @@ The model was trained on the NIH Malaria Cell Images Dataset containing 27,558 b
 
 The training approach used transfer learning with a two-phase process: first freezing ResNet50 base layers to train the classifier head, then fine-tuning the entire model with a lower learning rate. The system achieved 96.54% test accuracy with 0.993 AUC score, 96.30% precision and 96.81% recall, demonstrating excellent performance for clinical applications.
 
-Dataset source: https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria
+Key features include automated parasite detection, high accuracy classification with minimal false negatives, and robust performance across different imaging conditions. The model uses an optimal decision threshold of 0.561 and shows strong discriminative power suitable for real-time inference.
 
-Documentation: https://adittomahmood.vercel.app/project-docs/2
+Dataset source: [NIH Malaria Cell Images Dataset](https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria)
 
-Connect: linkedin.com/in/adittomahmood | github.com/adittomahmood
+Project documentation: [View full project documentation and demo](https://adittomahmood.vercel.app/project-docs/2)
+
+Connect: [LinkedIn](https://linkedin.com/in/adittomahmood) | [GitHub](https://github.com/adittomahmood)
