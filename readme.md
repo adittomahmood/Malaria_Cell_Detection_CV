@@ -1,4 +1,4 @@
-# Malaria Cell Detection using Deep Learning
+# Malaria Cell Detection (Computer Vision)
 
 This project uses ResNet50 deep learning architecture to automatically classify microscopic blood cell images as malaria-infected or uninfected. The system aims to automate traditional microscopic diagnosis which requires trained professionals and is time-consuming.
 
