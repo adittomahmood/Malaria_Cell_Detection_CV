@@ -12,4 +12,6 @@ Dataset source: [NIH Malaria Cell Images Dataset](https://www.kaggle.com/dataset
 
 Project documentation: [View full project documentation and demo](https://adittomahmood.vercel.app/project-docs/2)
 
+Live app: [Try the malaria detection system](https://malaria-cell-detection-cv.streamlit.app/)
+
 Connect: [LinkedIn](https://linkedin.com/in/adittomahmood)
